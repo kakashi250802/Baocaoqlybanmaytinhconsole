@@ -1,0 +1,7 @@
+1	1	1	0	1
+2	2	2	0	2
+3	3	3	2	3
+aaa	aaaaaaa	nfn	19	10
+m	s	xxxx	22	188
+hhhh	aaaassssssa	111aaaa	10	1999
+na	dam	ma111	10	2000
